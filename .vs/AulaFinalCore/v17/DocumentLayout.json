@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\profj\\Desktop\\AspMVC\\AulaFinalCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0B6F57-B838-4C5A-A439-ED56799B6806}|LojaConstrucao\\LojaConstrucao.csproj|c:\\users\\profj\\desktop\\aspmvc\\aulafinalcore\\lojaconstrucao\\views\\cliente\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E0B6F57-B838-4C5A-A439-ED56799B6806}|LojaConstrucao\\LojaConstrucao.csproj|solutionrelative:lojaconstrucao\\views\\cliente\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0B6F57-B838-4C5A-A439-ED56799B6806}|LojaConstrucao\\LojaConstrucao.csproj|c:\\users\\profj\\desktop\\aspmvc\\aulafinalcore\\lojaconstrucao\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E0B6F57-B838-4C5A-A439-ED56799B6806}|LojaConstrucao\\LojaConstrucao.csproj|solutionrelative:lojaconstrucao\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0B6F57-B838-4C5A-A439-ED56799B6806}|LojaConstrucao\\LojaConstrucao.csproj|c:\\users\\profj\\desktop\\aspmvc\\aulafinalcore\\lojaconstrucao\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E0B6F57-B838-4C5A-A439-ED56799B6806}|LojaConstrucao\\LojaConstrucao.csproj|solutionrelative:lojaconstrucao\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0B6F57-B838-4C5A-A439-ED56799B6806}|LojaConstrucao\\LojaConstrucao.csproj|c:\\users\\profj\\desktop\\aspmvc\\aulafinalcore\\lojaconstrucao\\views\\cliente\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E0B6F57-B838-4C5A-A439-ED56799B6806}|LojaConstrucao\\LojaConstrucao.csproj|solutionrelative:lojaconstrucao\\views\\cliente\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0B6F57-B838-4C5A-A439-ED56799B6806}|LojaConstrucao\\LojaConstrucao.csproj|c:\\users\\profj\\desktop\\aspmvc\\aulafinalcore\\lojaconstrucao\\views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E0B6F57-B838-4C5A-A439-ED56799B6806}|LojaConstrucao\\LojaConstrucao.csproj|solutionrelative:lojaconstrucao\\views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0B6F57-B838-4C5A-A439-ED56799B6806}|LojaConstrucao\\LojaConstrucao.csproj|c:\\users\\profj\\desktop\\aspmvc\\aulafinalcore\\lojaconstrucao\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E0B6F57-B838-4C5A-A439-ED56799B6806}|LojaConstrucao\\LojaConstrucao.csproj|solutionrelative:lojaconstrucao\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0B6F57-B838-4C5A-A439-ED56799B6806}|LojaConstrucao\\LojaConstrucao.csproj|c:\\users\\profj\\desktop\\aspmvc\\aulafinalcore\\lojaconstrucao\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E0B6F57-B838-4C5A-A439-ED56799B6806}|LojaConstrucao\\LojaConstrucao.csproj|solutionrelative:lojaconstrucao\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Detalhes.cshtml",
+              "DocumentMoniker": "C:\\Users\\profj\\Desktop\\AspMVC\\AulaFinalCore\\LojaConstrucao\\Views\\Cliente\\Detalhes.cshtml",
+              "RelativeDocumentMoniker": "LojaConstrucao\\Views\\Cliente\\Detalhes.cshtml",
+              "ToolTip": "C:\\Users\\profj\\Desktop\\AspMVC\\AulaFinalCore\\LojaConstrucao\\Views\\Cliente\\Detalhes.cshtml",
+              "RelativeToolTip": "LojaConstrucao\\Views\\Cliente\\Detalhes.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T18:49:53.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\profj\\Desktop\\AspMVC\\AulaFinalCore\\LojaConstrucao\\Views\\Cliente\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LojaConstrucao\\Views\\Cliente\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\profj\\Desktop\\AspMVC\\AulaFinalCore\\LojaConstrucao\\Views\\Cliente\\Edit.cshtml",
+              "RelativeToolTip": "LojaConstrucao\\Views\\Cliente\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T17:31:31.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\profj\\Desktop\\AspMVC\\AulaFinalCore\\LojaConstrucao\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LojaConstrucao\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\profj\\Desktop\\AspMVC\\AulaFinalCore\\LojaConstrucao\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LojaConstrucao\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T16:33:15.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\profj\\Desktop\\AspMVC\\AulaFinalCore\\LojaConstrucao\\Views\\Cliente\\Create.cshtml",
+              "RelativeDocumentMoniker": "LojaConstrucao\\Views\\Cliente\\Create.cshtml",
+              "ToolTip": "C:\\Users\\profj\\Desktop\\AspMVC\\AulaFinalCore\\LojaConstrucao\\Views\\Cliente\\Create.cshtml",
+              "RelativeToolTip": "LojaConstrucao\\Views\\Cliente\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T16:32:18.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\profj\\Desktop\\AspMVC\\AulaFinalCore\\LojaConstrucao\\Views\\Cliente\\Index.cshtml",
+              "RelativeDocumentMoniker": "LojaConstrucao\\Views\\Cliente\\Index.cshtml",
+              "ToolTip": "C:\\Users\\profj\\Desktop\\AspMVC\\AulaFinalCore\\LojaConstrucao\\Views\\Cliente\\Index.cshtml",
+              "RelativeToolTip": "LojaConstrucao\\Views\\Cliente\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T13:19:32.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\profj\\Desktop\\AspMVC\\AulaFinalCore\\LojaConstrucao\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "LojaConstrucao\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\profj\\Desktop\\AspMVC\\AulaFinalCore\\LojaConstrucao\\Models\\Cliente.cs",
+              "RelativeToolTip": "LojaConstrucao\\Models\\Cliente.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwA0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T12:44:49.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\profj\\Desktop\\AspMVC\\AulaFinalCore\\LojaConstrucao\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "LojaConstrucao\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\profj\\Desktop\\AspMVC\\AulaFinalCore\\LojaConstrucao\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "LojaConstrucao\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T12:41:47.964Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
